@@ -231,6 +231,8 @@ public class MergeSort {
 
 ```
 
+## 求区间数目
+https://leetcode.com/problems/count-of-range-sum/description/
 
 
 
